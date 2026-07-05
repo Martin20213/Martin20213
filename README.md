@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Developer;AI+Automation+Enthusiast;Always+Building+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+Developer;AI+Automation+Enthusiast;Always+Building+Something+New"/>
 
 </p>
 
@@ -108,15 +108,6 @@ Passionate about building modern web applications with clean architecture, scala
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Martin20213&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-
-</p>
 
 ---
 
