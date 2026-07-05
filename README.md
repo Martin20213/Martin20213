@@ -51,7 +51,7 @@ Passionate about building modern web applications with clean architecture, scala
 ### 🤖 AI & Automation
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/412991" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="48">
   <img src="https://cdn.simpleicons.org/claude/D97757" width="48" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" />
