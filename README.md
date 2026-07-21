@@ -35,7 +35,7 @@ Passionate about building modern web applications with clean architecture, scala
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,cs,mysql,supabase" />
 </p>
 
 ---
@@ -75,6 +75,7 @@ Passionate about building modern web applications with clean architecture, scala
 - 🤖 AI-powered web solutions
 - 🧠 Clean Architecture & Software Design
 - ☁️ Modern Full Stack Development
+- 🧩 Data Structures & Algorithms (LeetCode practice with C#)
 
 ---
 
