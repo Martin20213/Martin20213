@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+C#+Developer;AI+Automation+Enthusiast;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+C%23+Developer;AI+Automation+Enthusiast;Always+Building+Something+New"/>
 
 </p>
 
