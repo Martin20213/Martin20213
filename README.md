@@ -83,9 +83,9 @@ Passionate about building modern web applications with clean architecture, scala
 
 | Project | Description |
 |----------|-------------|
-| 🔐 **PHP Auth System** | Authentication system built with layered architecture (Controllers, Services, Models). |
-| 📱 **QR Code Generator** | Laravel + React + TypeScript QR generator using clean architecture. |
+| 🧭 **Travel Diary** | Full-stack travel journal built with Next.js, TypeScript, Supabase and Vercel. Includes authentication, photo uploads and a modern glassmorphism UI. |
 | 🤖 **AI Phone Assistant** | AI-powered phone assistant built with Vapi AI, n8n and Supabase. |
+| 📱 **QR Code Generator** | Laravel + React + TypeScript QR code generator built with a clean architecture. |
 
 ---
 
