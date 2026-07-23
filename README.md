@@ -1,50 +1,65 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+C%23+Developer;AI+Automation+Enthusiast;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Laravel+%7C+PHP+Developer;AI+Automation+Enthusiast;Always+Building+Something+New"/>
 
 </p>
 
 <h3 align="center">
-Full Stack Developer • Laravel • React • AI Automation
+Full Stack Developer • Next.js • React • TypeScript • Laravel • C#
 </h3>
 
 <p align="center">
-Passionate about building modern web applications with clean architecture, scalable solutions and AI-powered automation.
+Building modern web applications with scalable architectures, clean code and AI-powered solutions.
 </p>
 
 <p align="center">
-💻 Full Stack Developer • 🚀 Lifelong Learner • 🤖 AI Enthusiast
+💻 Full Stack Developer • 🚀 Product Builder • 🤖 AI Enthusiast
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer with experience building ERP systems
-- ⚙️ Passionate about Laravel, React and modern web development
-- 🤖 Interested in AI integrations, LLMs and workflow automation
-- 🧩 Enjoy designing clean architectures and scalable applications
-- 🌱 Currently learning more about React, TypeScript and AI Engineering
+- 💻 Full Stack Developer focused on modern web applications
+- ⚡ Currently building with Next.js, React, TypeScript and Supabase
+- 🏗️ Experienced in developing business applications and ERP systems
+- 🤖 Interested in AI integrations, LLM applications and automation workflows
+- 🧩 Passionate about clean architecture, great UX and shipping real products
+- 🌱 Continuously improving my skills in SaaS development and cloud technologies
 - 📍 Hungary
 
 ---
 
 # 🛠 Tech Stack
 
-### ⚙️ Backend
+### ⚡ Current Focus
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,vercel" />
 </p>
+
+Next.js • React • TypeScript • Tailwind CSS • Supabase • Vercel
 
 ---
 
-### 🎨 Frontend
+### 🔙 Previous Experience
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
+
+Laravel • PHP • MySQL • REST APIs • Backend Development
+
+---
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,postgres,docker" />
+</p>
+
+C# • PostgreSQL • Docker • API Development
 
 ---
 
@@ -54,15 +69,16 @@ Passionate about building modern web applications with clean architecture, scala
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="48">
   <img src="https://cdn.simpleicons.org/claude/D97757" width="48" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" />
 </p>
+
+AI Integrations • LLM Applications • n8n Automation • Vapi AI
 
 ---
 
 ### ☁️ Cloud & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,azure" />
   <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" />
 </p>
 
@@ -70,11 +86,11 @@ Passionate about building modern web applications with clean architecture, scala
 
 # 📌 Current Focus
 
-- 🚀 Building portfolio projects
-- ⚛️ Laravel + React applications
-- 🤖 AI-powered web solutions
-- 🧠 Clean Architecture & Software Design
-- ☁️ Modern Full Stack Development
+- ⚡ Building full-stack applications with Next.js and TypeScript
+- 🚀 Developing SaaS-style products and MVPs
+- 🗄️ Working with Supabase, PostgreSQL and serverless architectures
+- 🌐 Open source projects and community contribution
+- 🤖 AI-powered features and automation workflows
 - 🧩 Data Structures & Algorithms (LeetCode practice with C#)
 
 ---
@@ -85,7 +101,7 @@ Passionate about building modern web applications with clean architecture, scala
 |----------|-------------|
 | 🧭 **Travel Diary** | Full-stack travel journal built with Next.js, TypeScript, Supabase and Vercel. Includes authentication, photo uploads and a modern glassmorphism UI. |
 | 🤖 **AI Phone Assistant** | AI-powered phone assistant built with Vapi AI, n8n and Supabase. |
-| 📱 **QR Code Generator** | Laravel + React + TypeScript QR code generator built with a clean architecture. |
+| 📱 **QR Code Generator** | Laravel + React + TypeScript QR code generator built with clean architecture. |
 
 ---
 
