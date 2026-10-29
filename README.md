@@ -21,11 +21,10 @@ Building modern web applications with scalable architectures, clean code and AI-
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer focused on modern web applications
+- 💻 Full Stack Developer focused on modern applications
 - ⚡ Currently building with Next.js, React, TypeScript and Supabase
 - 🏗️ Experienced in developing business applications and ERP systems
-- 🤖 Interested in AI integrations, LLM applications and automation workflows
-- 🧩 Passionate about clean architecture, great UX and shipping real products
+- 🧩 Passionate about architectures and maintainability, great UX and shipping real products
 - 🌱 Continuously improving my skills in SaaS development and cloud technologies
 - 📍 Hungary
 
@@ -39,7 +38,7 @@ Building modern web applications with scalable architectures, clean code and AI-
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,vercel" />
 </p>
 
-Next.js • React • TypeScript • Tailwind CSS • Supabase • Vercel
+Laravel • Next.js • React • TypeScript • Tailwind CSS • Supabase • Vercel
 
 ---
 
@@ -86,7 +85,7 @@ AI Integrations • LLM Applications • n8n Automation • Vapi AI
 
 # 📌 Current Focus
 
-- ⚡ Building full-stack applications with Laraver, React, Next.js and TypeScript
+- ⚡ Building full-stack applications with Laravel, React, Next.js and TypeScript
 - 🚀 Developing SaaS products and production-ready applications
 - 🗄️ Working with PostgreSQL, MySQL, Supabase and REST APIs
 - 🏗️ Exploring software architecture and system design
