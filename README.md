@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
+
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;Laravel+%7C+PHP+Developer;AI+Automation+Enthusiast;Always+Building+Something+New"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+PHP+Developer;Software+Architecture+%26+System+Design;Building+Scalable+Web+Applications" />
 </p>
 
 <h3 align="center">
-Full Stack Developer • Next.js • React • TypeScript • Laravel • C#
+  Full Stack Developer • React • Next.js • TypeScript • Laravel • PHP
 </h3>
 
 <p align="center">
-Building modern web applications with scalable architectures, clean code and AI-powered solutions.
+  Building modern web applications with clean code, thoughtful architecture and scalable solutions.
 </p>
 
 <p align="center">
-💻 Full Stack Developer • 🚀 Product Builder • 🤖 AI Enthusiast
+  💻 Full Stack Development • 🚀 SaaS & Product Building • 🏗️ Software Architectures
 </p>
 
 ---
