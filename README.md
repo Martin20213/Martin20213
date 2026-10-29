@@ -86,12 +86,12 @@ AI Integrations • LLM Applications • n8n Automation • Vapi AI
 
 # 📌 Current Focus
 
-- ⚡ Building full-stack applications with Next.js and TypeScript
-- 🚀 Developing SaaS-style products and MVPs
-- 🗄️ Working with Supabase, PostgreSQL and serverless architectures
-- 🌐 Open source projects and community contribution
-- 🤖 AI-powered features and automation workflows
-- 🧩 Data Structures & Algorithms (LeetCode practice with C#)
+- ⚡ Building full-stack applications with Laraver, React, Next.js and TypeScript
+- 🚀 Developing SaaS products and production-ready applications
+- 🗄️ Working with PostgreSQL, MySQL, Supabase and REST APIs
+- 🏗️ Exploring software architecture and system design
+- ⚙️ Making CI/CD pipelines and deployment automation
+- 🌐 Improving code quality, maintainability and scalability
 
 ---
 
@@ -99,9 +99,8 @@ AI Integrations • LLM Applications • n8n Automation • Vapi AI
 
 | Project | Description |
 |----------|-------------|
-| 🧭 **Travel Diary** | Full-stack travel journal built with Next.js, TypeScript, Supabase and Vercel. Includes authentication, photo uploads and a modern glassmorphism UI. |
-| 🤖 **AI Phone Assistant** | AI-powered phone assistant built with Vapi AI, n8n and Supabase. |
-| 📱 **QR Code Generator** | Laravel + React + TypeScript QR code generator built with clean architecture. |
+| 🧭 **Travel Diary** | Full-stack travel journal built with Next.js, TypeScript and Supabase. Features authentication, PostgreSQL, row-level security, photo uploads, trip sharing and a responsive UI. |
+| 🧪 **Rick and Morty** | Full-stack application built with Laravel and React + TypeScript, integrating the Rick and Morty API with a structured backend and a modern frontend. |
 
 ---
 
